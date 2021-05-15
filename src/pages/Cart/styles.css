@@ -1,0 +1,24 @@
+.cart-header {
+  padding-top: 0.5rem;
+}
+
+.orders {
+  margin: 2rem 0 0 0;
+  min-height: calc(100vh - 15rem);
+}
+
+.orders-heading,
+.orders-total {
+  width: 100%;
+  max-width: 600px;
+}
+.orders-heading {
+  margin-bottom: 5.5rem;
+  border-bottom: 2px solid #000;
+}
+.orders-total {
+  text-align: right;
+  border-top: 2px solid #000;
+  margin-left: auto;
+  margin-top: 3rem;
+}
